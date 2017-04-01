@@ -1,2 +1,2 @@
 # inventory
-This is the Description part of my project
+This project is created on inventory management and it performs all the operations of inventory and stock management.
